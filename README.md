@@ -1,1 +1,1 @@
-# AI-Notebooks-OVHcloud-marine-sounds-classification
+# Classification of marine mammal sounds with AI Notebooks (OVHcloud)
